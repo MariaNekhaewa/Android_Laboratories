@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mobile2</string>
+    <string name="layout_activity">Это Layout Activty Main</string>
+    <string name="sel_res">Выберите способ просмотра графических ресурсов</string>
+    <string name="btn_photo">Фото</string>
+    <string name="btn_list">Список</string>
+    <string name="btn_home">Вернуться на главную</string>
+    <string name="photo_pers">Персидский</string>
+    <string name="photo_belg">Бенгальский</string>
+    <string name="photo_sfin">Сфинкс</string>
+    <string name="photo_cun">Мейн кун</string>
+    <string name="photo_brit">Британец</string>
+    <string name="photo_siam">Сиамский</string>
+    <string name="photo_description">Здесь котенок</string>
+
+</resources>

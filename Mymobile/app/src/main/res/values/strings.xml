@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ABOBA</string>
+
+    <string name="Hello">Приветствуем</string>
+    <string name="eTName">Ваше имя</string>
+    <string name="tVName">Введите имя</string>
+
+
+</resources>
