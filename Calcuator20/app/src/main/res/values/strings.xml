@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calcuator2.0</string>
+    <string name="add">add</string>
+    <string name="subtract">subtract</string>
+    <string name="multiply">multiply</string>
+    <string name="divide">divide</string>
+    <string name="num1">Ведите первое число</string>
+    <string name="num2">Введите второе число</string>
+    <string name="cBox">Целочисленное</string>
+    <string name="res">Результат:</string>
+    <string name="btnres">Вычислить</string>
+</resources>
